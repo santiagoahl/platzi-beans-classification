@@ -8,7 +8,7 @@
 <h4 align="center">A Pytorch implementation of Google Vision Transformers.</h4>
 
 <p align="center">
-  <a href='https://huggingface.co/' target="_blank"><img alt='google' src='https://img.shields.io/badge/Google_Vision-Transformer-100000?style=for-the-badge&logo=google&logoColor=f4c20d&labelColor=4885ed&color=3cba54'/></a> <a href='https://huggingface.co/' target="_blank"><img alt='Hugging Face' src='https://img.shields.io/badge/Hugging-Face-100000?style=for-the-badge&logo=Hugging Face&logoColor=fcd376&labelColor=fcd41c&color=fbb30a'/></a> <a href='https://huggingface.co/' target="_blank"><img alt='pytorch' src='https://img.shields.io/badge/pytorch-100000?style=for-the-badge&logo=pytorch&logoColor=ef4c2d&labelColor=000000&color=343b44'/></a>
+  <a href='https://huggingface.co/' target="_blank"><img alt='google' src='https://img.shields.io/badge/Google_Vision-Transformer-100000?style=for-the-badge&logo=google&logoColor=f4c20d&labelColor=4885ed&color=3cba54'/></a> <a 🤗href='https://huggingface.co/' target="_blank"><img alt='Hugging Face' src='https://img.shields.io/badge/Hugging-Face-100000?style=for-the-badge&logo=Hugging Face&logoColor=fcd376&labelColor=fcd41c&color=fbb30a'/></a> <a href='https://huggingface.co/' target="_blank"><img alt='pytorch' src='https://img.shields.io/badge/pytorch-100000?style=for-the-badge&logo=pytorch&logoColor=ef4c2d&labelColor=000000&color=343b44'/></a>
 </p>
 
 <p align="center">
