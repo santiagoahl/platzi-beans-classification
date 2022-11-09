@@ -24,7 +24,7 @@
 
 * This deep learning model classifies a given leaf photo by its quality. 
 * Data is taken from Hugging Face and is called [vit-base-beans
-https://huggingface.co/nateraw/vit-base-beans].
+](https://huggingface.co/nateraw/vit-base-beans).
 * We implemented transfer learning techniques. The pre-trained model is a [Vision Transformer (base-sized model)](https://huggingface.co/google/vit-base-patch16-224-in21k#vision-transformer-base-sized-model) developed by Google.
 
 
